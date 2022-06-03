@@ -1,6 +1,6 @@
 # aerobot Capstone Project
 
->	Won 2nd place ‘Capstone Best Project Award’
+>	Won 2nd place ‘Capstone Best Project Award’  
 >	Paper accepted at 2022 International Telemetering Conference
 
 'UGV Remote Control Over Deployed Continuous UWB RF Nodes'
