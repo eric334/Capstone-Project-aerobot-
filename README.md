@@ -1,4 +1,5 @@
-# aerobot Capstone Project - 'UGV Remote Control Over Deployed Continuous UWB RF Nodes'
+# aerobot Capstone Project
+## UGV Remote Control Over Deployed Continuous UWB RF Nodes
 
 - ***Won 2nd place ‘Capstone Best Project Award’***  
 - ***Paper accepted at 2022 International Telemetering Conference***
