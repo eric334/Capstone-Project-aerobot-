@@ -2,7 +2,7 @@
 - ***Won 2nd place ‘Capstone Best Project Award’***  
 - ***Paper accepted at 2022 International Telemetering Conference***
 
-## UGV Remote Control Over Deployed Continuous UWB RF Nodes
+### UGV Remote Control Over Deployed Continuous UWB RF Nodes
 
 ## Sources
 
