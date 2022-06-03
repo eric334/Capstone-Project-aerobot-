@@ -11,7 +11,6 @@
 
 - [nrf_com_controller - Capstone NRF USB Serial and DWM Communication Source](https://github.com/eric334/nrf_com_controller)
 
-
 ## Poster
 
 ![Poster Image](Poster.jpg)
@@ -25,5 +24,3 @@
 ## Video
 
 [![aerobot Demo Video](Video_Thumb.jpg)](https://www.youtube.com/watch?v=4uCoLaq8LUY "aerobot Demo Video")
-
-
