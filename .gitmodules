@@ -1,5 +1,1 @@
 
-[submodule "robot_ws - UGV ROS"]
-	path = robot_ws - UGV ROS
-	url = https://github.com/eric334/robot_ws
-	branch = master
