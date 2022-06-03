@@ -7,7 +7,7 @@
 
 # Poster
 
-![Poster](Poster.pdf)
+![Poster](https://github.com/eric334/aerobot-Capstone-Project/blob/main/Poster.pdf)
 
 
 ## Sources
