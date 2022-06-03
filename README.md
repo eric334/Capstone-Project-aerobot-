@@ -21,5 +21,12 @@
 
 [Poster PDF](Poster.pdf)
 
+## Paper
+
+[Relay Connectivity in High Interference Environments Through Deployable Ultrawide Bandwidth Wireless Nodes](aerobot_ITC_2022.pdf)
+
+## Video
+
+[![aerobot Demo Video](Video_Thumb.jpg)](https://www.youtube.com/watch?v=4uCoLaq8LUY "aerobot Demo Video")
 
 
