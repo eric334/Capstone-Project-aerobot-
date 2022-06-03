@@ -1,6 +1,0 @@
-[submodule "robot_ws - Capstone AION UGV ROS Catkin Workspace"]
-	path = robot_ws - Capstone AION UGV ROS Catkin Workspace
-	url = https://github.com/eric334/robot_ws
-[submodule "remote_ws - Capstone Remote Station ROS Catkin Workspace"]
-	path = remote_ws - Capstone Remote Station ROS Catkin Workspace
-	url = https://github.com/eric334/remote_ws
