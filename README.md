@@ -27,8 +27,6 @@
 
 ## Video
 
-![aerobot Demo Video](https://www.youtube.com/watch?v=4uCoLaq8LUY)
-
 [![aerobot Demo Video](Video_Thumb.jpg)](https://www.youtube.com/watch?v=4uCoLaq8LUY "aerobot Demo Video")
 
 
