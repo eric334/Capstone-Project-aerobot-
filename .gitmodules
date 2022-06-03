@@ -1,6 +1,0 @@
-[submodule "remote_ws"]
-	path = remote_ws
-	url = https://github.com/eric334/remote_ws
-[submodule "robot_ws"]
-	path = robot_ws
-	url = https://github.com/eric334/robot_ws
