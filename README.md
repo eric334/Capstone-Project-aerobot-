@@ -6,7 +6,7 @@
 
 'UGV Remote Control Over Deployed Continuous UWB RF Nodes'
 
-# Poster
+## Poster
 
 ![Poster Image](Poster.jpg)
 
