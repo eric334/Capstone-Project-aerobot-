@@ -20,7 +20,8 @@
 
 ## Paper
 
-- [Relay Connectivity in High Interference Environments Through Deployable Ultrawide Bandwidth Wireless Nodes](aerobot_ITC_2022.pdf)
+- [Relay Connectivity in High Interference Environments Through Deployable Ultrawide Bandwidth Wireless Nodes](aerobot_ITC_2022.pdf)  
+
 
 ## Video
 
